@@ -2,7 +2,7 @@
 
 For this project to run, you would need to install below 3 dependencies (minimum) on your machine:
 
-- **[Java 11](https://openjdk.java.net/projects/jdk/11/)** (as the core programming language)
+- **[Java 11](https://www.oracle.com/eg/java/technologies/downloads/#java11 or https://openjdk.java.net/projects/jdk/11/)** (as the core programming language)
 - **[Maven 3.8.5](https://maven.apache.org/download.cgi)** (for dependency management)
 - **[Google Chrome latest version](https://www.google.com/chrome/?brand=CHBD&gclid=Cj0KCQjwr-SSBhC9ARIsANhzu15P0PA-n9Zp4NpxKaOHVGtBD1TZQH0HlQQE6hUfsOFAU1nf-Rzdlf4aAoTJEALw_wcB&gclsrc=aw.ds)** (browser to run your tests)
 
