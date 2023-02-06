@@ -9,6 +9,7 @@ For this project to run, you would need to install below 3 dependencies (minimum
 > If your JAVA_HOME is set to anything other than JDK 11, you would need to update the path. Else your project
 > will not run. Also, do remember to set the correct JDK settings in your IDE.
 
+
 # Getting started
 
 > For easiest way to getting started, clone and import on IntelliJ.
